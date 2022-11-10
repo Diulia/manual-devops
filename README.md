@@ -10,7 +10,7 @@
 * cd: Acessa uma determinada pasta (diretório)
 * mkdir: Cria um diretório
 * rm: Remove um arquivo/diretório
-* cat: Abre um arquivo
+* cat: Mostra o conteúdo de um arquivo
 * vi: Abre o editor vi para editar/criar arquivos
 <!--te-->
 <p> Todas as informações aqui presentes foram tiradas de blogs e matérias sobre tecnologia da informação.</p>
