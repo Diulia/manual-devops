@@ -14,7 +14,9 @@
 * vi: Abre o editor vi para editar/criar arquivos
 <!--te-->
 <p> Todas as informações aqui presentes foram tiradas de blogs e matérias sobre tecnologia da informação.</p>
-
+---
+---
+<h4>Listagem de comandos (organizados por tipos e usos) </h4>
 <!--ts-->
 * Comandos de Controle e Acesso;
 * Comandos de Ajuda e Documentação;
