@@ -13,15 +13,18 @@
 * cat: Abre um arquivo
 * vi: Abre o editor vi para editar/criar arquivos
 <!--te-->
+<p> Todas as informações aqui presentes foram tiradas de blogs e matérias sobre tecnologia da informação.</p>
 
-<h3> Comandos de Controle e Acesso </h3>
-<h3> Comandos de Ajuda e Documentação </h3>
-<h3> Comandos de Edição de Texto </h3>
-<h3> Comandos de Gestão de Arquivos e Diretórios</h3>
-<h3> Exibição ou Impressão de Arquivos </h3>
-<h3> Comandos de Transferência de Arquivos </h3>
-<h3> Comandos de Notícias ou Rede </h3>
-<h3> Comandos de Controle de Processos </h3>
-<h3> Comandos de Informação de Estado </h3>
-<h3> Comandos de Processamento de Texto </h3>
-<h3> Web </h3>
+<!--ts-->
+* Comandos de Controle e Acesso;
+* Comandos de Ajuda e Documentação;
+* Comandos de Edição de Texto;
+* Comandos de Gestão de Arquivos e Diretórios;
+* Exibição ou Impressão de Arquivos;
+* Comandos de Transferência de Arquivos;
+* Comandos de Notícias ou Rede;
+* Comandos de Controle de Processos;
+* Comandos de Informação de Estado;
+* Comandos de Processamento de Texto;
+* Web;
+<!--te-->
